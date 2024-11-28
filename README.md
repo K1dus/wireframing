@@ -34,3 +34,19 @@ Wireframes can be classified into two types: **low-fidelity** and **high-fidelit
 
 - **High-Fidelity Wireframes**  
   High-fidelity wireframes are much more detailed and polished. They include specific design elements like typography, colors, and more realistic representations of the final interface. These wireframes are typically created later in the design process and help refine the visual and interactive elements.
+
+
+## Wireframing Tools
+
+### **Popular Wireframing Tools**
+
+Several tools are available to assist in wireframing, ranging from simple sketching tools to advanced prototyping platforms. Some popular options include:
+
+- **Figma**  
+  Figma is a cloud-based design tool that is particularly popular for wireframing and prototyping. It is widely used for its real-time collaboration features, allowing multiple team members to work on a design simultaneously. Figma also offers a wide range of templates, interactive components, and design features that make creating wireframes and prototypes easy and efficient.
+
+- **Sketch**  
+  Sketch is another powerful design tool, often used for creating high-fidelity wireframes and user interfaces. It is particularly favored by Mac users and offers extensive plugin support.
+
+- **Adobe XD**  
+  Adobe XD is a versatile design tool that allows for the creation of wireframes, interactive prototypes, and UI elements.
